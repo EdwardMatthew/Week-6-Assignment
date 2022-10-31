@@ -18,5 +18,13 @@ $ pip install gym[all]
 ```console
 $ python robot_q_learning.py
 ```
+### LunarLander-v2
+```console
+$ python lunarlander_qlearning.py
+```
+
+## References
+AIMA Code: https://github.com/aimacode/aima-python/blob/master/reinforcement_learning.py
+Ms. Nurul's Code: https://github.com/nnqomariyah/aima-python 
 
 [python]: https://www.python.org/downloads/
