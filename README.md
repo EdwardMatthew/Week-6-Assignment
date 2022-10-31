@@ -7,6 +7,7 @@ This repository contains two implementation of q-learning in different scenarios
 ## Dependencies
 ### Python
 [python]
+
 ### Gym
 ```console
 $ pip install gym[all]
@@ -18,4 +19,4 @@ $ pip install gym[all]
 $ python robot_q_learning.py
 ```
 
-[python] = https://www.python.org/downloads/
+[python]: https://www.python.org/downloads/
